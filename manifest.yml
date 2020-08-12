@@ -1,0 +1,4 @@
+---
+applications:
+ - name: shev_streamlit_app
+   random-route: true

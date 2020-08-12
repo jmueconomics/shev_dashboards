@@ -1,0 +1,3 @@
+vega-datasets==0.8.0
+streamlit==0.52.2
+altair==4.0.0

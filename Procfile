@@ -1,0 +1,1 @@
+web: sh -c 'streamlit run shev.py --server.port 8080'
