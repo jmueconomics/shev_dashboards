@@ -1,3 +1,4 @@
-vega-datasets==0.8.0
-streamlit==0.52.2
-altair==4.0.0
+plotly==4.9.0
+streamlit==0.64.0
+numpy==1.17.3
+pandas==0.25.3
